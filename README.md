@@ -30,12 +30,12 @@ graph TD
 ```
 
 # 🧩 Agents & Roles
-**Agent**	            **Role**
-`Admin`	      Provides the task and feedback (human-in-the-loop)
-`Planner`	    Breaks down the task into code-executable data analysis steps
-`Engineer`	  Writes Python code for stock data fetching and analysis
-`Executor`	  Executes Python code and returns results
-`Writer`	    Converts results into a markdown report and refines it based on feedback
+**Agent**	            
+- `Admin`	      Provides the task and feedback (human-in-the-loop)
+- `Planner`	    Breaks down the task into code-executable data analysis steps
+- `Engineer`	  Writes Python code for stock data fetching and analysis
+- `Executor`	  Executes Python code and returns results
+- `Writer`	    Converts results into a markdown report and refines it based on feedback
 
 # 🚀 How to Run
 ##✅ Prerequisites
