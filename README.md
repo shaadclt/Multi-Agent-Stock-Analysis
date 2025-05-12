@@ -38,7 +38,7 @@ graph TD
 - `Writer`	    Converts results into a markdown report and refines it based on feedback
 
 # 🚀 How to Run
-##✅ Prerequisites
+## ✅ Prerequisites
 - Google Colab environment
 
 - Groq API key stored in Colab's userdata:
