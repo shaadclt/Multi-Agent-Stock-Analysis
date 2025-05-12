@@ -4,7 +4,7 @@ This project demonstrates a **multi-agent system** built using [AutoGen](https:/
 
 > 🚀 Run it in Google Colab and get an AI-generated stock report in markdown format!
 
----
+
 
 ## 📌 Features
 
@@ -15,7 +15,7 @@ This project demonstrates a **multi-agent system** built using [AutoGen](https:/
 - ✅ Generates a human-readable Markdown report
 - ✅ Accepts iterative feedback from the user
 
----
+
 
 ## 🛠️ Architecture Overview
 
@@ -74,5 +74,5 @@ task = "Analyze the daily closing prices of Apple (AAPL) stock for the past 1 mo
 # 🤝 License
 [MIT License](LICENSE.txt)
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 [Mohamed Shaad](https://www.linkedin.com/in/mshaadk/)
