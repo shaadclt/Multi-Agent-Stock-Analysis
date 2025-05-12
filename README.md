@@ -39,9 +39,9 @@ graph TD
 
 # 🚀 How to Run
 ##✅ Prerequisites
-Google Colab environment
+- Google Colab environment
 
-Groq API key stored in Colab's userdata:
+- Groq API key stored in Colab's userdata:
 
 ```python
 from google.colab import userdata
