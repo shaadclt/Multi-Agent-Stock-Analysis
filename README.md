@@ -29,8 +29,7 @@ graph TD
     Admin -->|Feedback| Writer
 ```
 
-# 🧩 Agents & Roles
-**Agent**	            
+# 🧩 Agents & Roles            
 - `Admin`	      Provides the task and feedback (human-in-the-loop)
 - `Planner`	    Breaks down the task into code-executable data analysis steps
 - `Engineer`	  Writes Python code for stock data fetching and analysis
